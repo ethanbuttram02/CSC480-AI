@@ -1,9 +1,7 @@
 import pygame
 import numpy as np
 import math
-from random import randrange
 import random
-from typing import List, Tuple
 import sys
 
 pygame.init()  # initialize pygame
